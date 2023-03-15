@@ -1,2 +1,2 @@
 # AluraBooks
-Projeto de responsabilidade, 
+Projeto de responsivi
